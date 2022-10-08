@@ -1,2 +1,3 @@
-# Time-Series-Forecasting-to-predict-energy-consumption-
-Python and Machine Learning based Time Series Forecasting to predict energy consumption 
+# Time-Series-Forecasting-to-predict-energy-consumption
+Time Series Forecasting to predict energy consumption employing Python and Machine Learning (XG-boost Algorithm)
+XG-boost algorithm uses the Gradient Boosting framework to construct algorithms for machine learning. In addition to a user-defined goal function, it provides a number of weighted classification and rank optimization techniques. Numerous techniques are used by XGBoost to lengthen the training duration of decision trees that have no bearing on ensemble efficiency. Since choosing the appropriate split represents the most time-consuming step in decision tree construction algorithms, XGBoost specifically focuses on reducing the computational complexity.
